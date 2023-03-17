@@ -34,15 +34,19 @@ function countPositivesSumNegatives(input) {
 }
 console.log (countPositivesSumNegatives([]))
 ```
-#Work experience:
-•	CJSC "Vyasnyanka" – economist;
-•	Metropol Hotel – front desk administrator (receptionist), chief adminisrator;
-#Education:
-•	Belarusian-Russian University – Faculty of economics (economist - marketing specialist.)
-•	The Continuing Education and Professional Development Institute (BRU) - Modern Foreign Language in Business Communication and Intercultural Communications (English) - translator/foreign language assistant.
-•	Courses: “HTML/CSS”, “JavaScript”, “SQL Fundamentals” (IT school -“Melarossa”)
-•	LeverX Group course “Intro to IT” 
-•	RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
-#Languages:
+## Work experience:
+* CJSC "Vyasnyanka" – economist;
+* Metropol Hotel – front desk administrator (receptionist), chief adminisrator;
+
+
+## Education:
+* Belarusian-Russian University – Faculty of economics (economist - marketing specialist.)
+* The Continuing Education and Professional Development Institute (BRU) - Modern Foreign Language in Business Communication and Intercultural Communications (English) - translator/foreign language assistant.
+* Courses: “HTML/CSS”, “JavaScript”, “SQL Fundamentals” (IT school -“Melarossa”)
+* LeverX Group course “Intro to IT” 
+* RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+
+
+## Languages:
 •	Russian – native speaker;
 •	English – B1.
