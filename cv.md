@@ -1,5 +1,5 @@
-# Alesia Nyrtsova
-## Junior Frontend Developer
+# **Alesia Nyrtsova**
+# Junior Frontend Developer
 ### **Contact information:**
 
 **Phone:** +375 29 29 377 18
@@ -48,5 +48,5 @@ console.log (countPositivesSumNegatives([]))
 
 
 ## Languages:
-•	Russian – native speaker;
-•	English – B1.
+* Russian – native speaker;
+* English – B1.
